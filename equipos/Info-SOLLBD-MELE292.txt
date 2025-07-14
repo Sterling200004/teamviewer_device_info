@@ -1,4 +1,4 @@
-﻿=== INFORMACIÃ“N DEL SISTEMA ===
+﻿=== INFORMACION DEL SISTEMA ===
 
 Nombre del equipo   = SOLLBD-MELE292
 Modelo:             = PCG02 GLE
