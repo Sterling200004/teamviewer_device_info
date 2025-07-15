@@ -1,0 +1,11 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-MELE293
+Modelo:             = PCG02 GLE
+Numero de serie:    = 2EKH4S216P530085
+Procesador:         = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB):   = 7.83
+Sistema Operativo:  = Microsoft Windows 11 Pro
+Version del SO:     = 10.0.22631
+Arquitectura:       = 32 bits
+Nombre del Kiron:   = SOLLBD-MELE295
