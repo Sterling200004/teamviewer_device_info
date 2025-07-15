@@ -7,6 +7,6 @@ Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
 Memoria RAM (GB):   = 7.97
 Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
 Version del SO:     = 10.0.19045
-Arquitectura:       = 32 bits
+Arquitectura:       = 64 bits
 Nombre del Kiron:   = SOLLBL-RA011
 Tipo de Racing:     = Simultáneas
