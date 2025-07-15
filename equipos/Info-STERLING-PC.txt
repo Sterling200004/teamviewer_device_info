@@ -9,4 +9,4 @@ Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
 Version del SO:     = 10.0.19045
 Arquitectura:       = 32 bits
 Nombre del Kiron:   = SOLLBL-RA011
-Tipo de Racing:     = CG
+Tipo de Racing:     = RC
