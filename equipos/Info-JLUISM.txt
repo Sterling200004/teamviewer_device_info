@@ -1,0 +1,11 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = JLUISM
+Modelo:             = XPS One 2710
+Numero de serie:    = 6CHTWS1
+Procesador:         = Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz
+Memoria RAM (GB):   = 15.89
+Sistema Operativo:  = Microsoft Windows 11 Pro
+Version del SO:     = 10.0.22000
+Arquitectura:       = 32 bits
+Nombre del Kiron:   = No encontrado
