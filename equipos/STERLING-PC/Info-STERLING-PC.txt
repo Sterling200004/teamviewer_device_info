@@ -8,6 +8,6 @@ Memoria RAM (GB):   = 7.97
 Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
 Version del SO:     = 10.0.19045
 Arquitectura:       = 64 bits
-Nombre del Kiron:   = SOLLBD-TEST" InstalledBy=
+Nombre del Kiron:   = SOLLBD-TEST
 Tipo de Racing:     = RC
 Carpeta equipo:     = STERLING-PC
