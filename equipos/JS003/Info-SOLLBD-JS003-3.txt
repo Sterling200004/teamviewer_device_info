@@ -1,0 +1,13 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS003-3
+Modelo:             = PCG02 GLE
+Numero de serie:    = 2EKR2F316H480119
+Procesador:         = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB):   = 3.83
+Sistema Operativo:  = Microsoft Windows 11 Home
+Version del SO:     = 10.0.22631
+Arquitectura:       = 64 bits
+Nombre del Kiron:   = No encontrado
+Tipo de Racing:     = No encontrado
+Carpeta equipo:     = JS003
