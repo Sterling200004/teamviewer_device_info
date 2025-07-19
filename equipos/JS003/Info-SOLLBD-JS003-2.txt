@@ -1,0 +1,13 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS003-2
+Modelo:             = OptiPlex 9020M
+Numero de serie:    = 57DVFB2
+Procesador:         = Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+Memoria RAM (GB):   = 15.91
+Sistema Operativo:  = Microsoft Windows 10 Pro
+Version del SO:     = 10.0.19045
+Arquitectura:       = 64 bits
+Nombre del Kiron:   = SOLLBD-JS003CG
+Tipo de Racing:     = CG
+Carpeta equipo:     = JS003
