@@ -10,5 +10,6 @@ Version del SO:     = 10.0.19045
 Arquitectura:       = 64 bits
 Nombre del Kiron:   = SOLLBD-TEST
 Tipo de Racing:     = Ruleta de Caballos
-<#Carpeta equipo:     = STERLING-PC#>
+# Esta es la carpeta donde se guarda la configuración del equipo
+Carpeta equipo:     = STERLING-PC
 TeamViewer ID:      = 213 272 642
