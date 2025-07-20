@@ -8,6 +8,6 @@ Memoria RAM (GB):   = 7.83
 Sistema Operativo:  = Microsoft Windows 11 Pro
 Version del SO:     = 10.0.22631
 Arquitectura:       = 64 bits
-Proyeccion:         = Loterías
+Proyeccion:         = Publicidad
 TeamViewer ID:      = 1 809 967 036
 Carpeta equipo:     = SMB 005
