@@ -1,0 +1,14 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-SMB005-4
+Modelo:             = PCG02 GLE
+Numero de serie:    = 25KH4F216P4Q0030
+Procesador:         = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB):   = 7.83
+Sistema Operativo:  = Microsoft Windows 11 Pro
+Version del SO:     = 10.0.22631
+Arquitectura:       = 64 bits
+Nombre del Kiron:   = SOLLBD-MELE153
+Tipo de Racing:     = Carreras Simultáneas
+TeamViewer ID:      = 1 809 967 036
+Carpeta equipo:     = SMB 005
