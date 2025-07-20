@@ -11,4 +11,4 @@ Arquitectura:       = 64 bits
 Nombre del Kiron:   = SOLLBD-TEST
 Tipo de Racing:     = RC
 Carpeta equipo:     = STERLING-PC
-TeamViewer ID:      = No encontrado
+TeamViewer ID:      = 213 272 642
