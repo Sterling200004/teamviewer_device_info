@@ -1,0 +1,12 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = STERLING-PC
+Modelo:             = OptiPlex 3010
+Numero de serie:    = 8G6G8Y1
+Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB):   = 7.97
+Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
+Version del SO:     = 10.0.19045
+Arquitectura:       = 64 bits
+Nombre del Kiron:   = SOLLBD-TEST
+Tipo de Racing:     = RC
