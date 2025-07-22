@@ -1,16 +1,14 @@
 ﻿=== INFORMACION DEL SISTEMA ===
 
-Nombre del equipo:  = STERLING-PC
-Marca / Modelo:     = ASUSTeK COMPUTER INC. GL502VT
-Número de serie:    = G8N0CV12N799333     
-Procesador:         = Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
-Memoria RAM (GB):   = 15.87
-Sistema Operativo:  = Microsoft Windows 11 Pro
-Versión del SO:     = 10.0.22631
+Nombre del equipo   = STERLING-PC
+Marca / Modelo      = Dell Inc. OptiPlex 3010
+Número de serie:    = 8G6G8Y1
+Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB):   = 7.97
+Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
+Versión del SO:     = 10.0.19045
 Arquitectura:       = 64 bits
-Disco duro (Tipo):  = ST500LT012-1DG142: HDD, 128GB SSD: SSD
-Capacidad:          = Total: 575.37 GB / Disponible: 192.63 GB
-Nombre del Kiron:   = No encontrado
-Tipo de Racing:     = No encontrado
-TeamViewer ID:      = 754 107 805
+Nombre del Kiron:   = SOLLBD-TEST
+Tipo de Racing:     = Ruleta de Caballos
+TeamViewer ID:      = 213 272 642
 Carpeta equipo:     = STERLING-PC
