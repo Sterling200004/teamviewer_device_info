@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo:  = SOLLBD-JSGALA
+Marca / Modelo:     = Dell Inc. OptiPlex 7010
+Número de serie:    = 61MG7Y1
+Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB):   = 3.99
+Sistema Operativo:  = Microsoft Windows 10 Pro
+Versión del SO:     = 10.0.19045
+Arquitectura:       = 64 bits
+Disco duro (Tipo):  = ST250DM000-1BD141: HDD
+Capacidad:          = Total: 232.32 GB / Disponible: 198.17 GB
+Nombre del Kiron:   = SOLLBD-JSGALA
+Tipo de Racing:     = Carreras Simultáneas
+TeamViewer ID:      = 468 293 369
+Carpeta equipo:     = SOLLBD-JSGALA
