@@ -2,13 +2,13 @@
 
 Nombre del equipo   = STERLING-PC
 Marca / Modelo      = ASUSTeK COMPUTER INC. GL502VT
-Número de serie     = G8N0CV12N799333     
-Procesador          = Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
-Memoria RAM (GB)    = 15.87
-Sistema Operativo   = Microsoft Windows 11 Pro
-Versión del SO      = 10.0.22631
-Arquitectura        = 64 bits
-Nombre del Kiron    = No encontrado
-Tipo de Racing      = No encontrado
-TeamViewer ID       = 754 107 805
-Carpeta equipo      = STERLING-PC
+Número de serie:    = G8N0CV12N799333     
+Procesador:         = Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+Memoria RAM (GB):   = 15.87
+Sistema Operativo:  = Microsoft Windows 11 Pro
+Versión del SO:     = 10.0.22631
+Arquitectura:       = 64 bits
+Nombre del Kiron:   = No encontrado
+Tipo de Racing:     = No encontrado
+TeamViewer ID:      = 754 107 805
+Carpeta equipo:     = STERLING-PC
