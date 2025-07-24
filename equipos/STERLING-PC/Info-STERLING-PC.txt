@@ -10,6 +10,6 @@ Versión del SO:     = 10.0.19045
 Arquitectura:       = 64 bits
 Disco duro (Tipo):  = ST250DM000-1BD141: HDD
 Capacidad:          = Total: 232.79 GB / Disponible: 137.51 GB
-Proyección:         = Tabla
+Proyección:         = Tabla Informativa
 TeamViewer ID:      = 213 272 642
 Carpeta equipo:     = STERLING-PC
