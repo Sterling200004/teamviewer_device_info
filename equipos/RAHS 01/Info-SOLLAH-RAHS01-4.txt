@@ -9,6 +9,6 @@ Sistema Operativo:  = Microsoft Windows 11 Pro
 Versión del SO:     = 10.0.22631
 Arquitectura:       = 64 bits
 Disco duro (Tipo):  = VID:D6 A3A561: SSD
-Capacidad:          = Total: 56.62 GB / Disponible: 20.67 GB
+Capacidad:          = Total: 56.62 GB / Disponible: 20.54 GB
 TeamViewer ID:      = 1 850 071 292
 Carpeta equipo:     = RAHS 01
