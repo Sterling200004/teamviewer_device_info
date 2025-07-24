@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS004-2
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = JTD0V52
+Procesador          = Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KingFast: SSD
+Capacidad           = Total: 476 GB / Disponible: 421.62 GB
+Nombre del Kiron    = SOLLPREPOD-09-NEW
+Tipo de Racing      = Carrera de Galgos
+TeamViewer ID       = 177 294 223
+Carpeta equipo      = JS 004
