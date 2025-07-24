@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS057-1
+Marca / Modelo      = Hewlett-Packard HP ProDesk 600 G1 DM
+Número de serie     = MXL4461JSY
+Procesador          = Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Memoria RAM (GB)    = 3.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KINGSTON SA400S37120G: SSD
+Capacidad           = Total: 111.15 GB / Disponible: 19.18 GB
+Nombre del Kiron    = SOLLBD-JS057
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 991 412 743
+Carpeta equipo      = JS 057
