@@ -1,16 +1,16 @@
 ﻿=== INFORMACION DEL SISTEMA ===
 
-Nombre del equipo   = STERLING-PC
-Marca / Modelo      = Dell Inc. OptiPlex 3010
-Número de serie     = 8G6G8Y1
-Procesador          = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
-Memoria RAM (GB)    = 7.97
-Sistema Operativo   = Microsoft Windows 10 Pro for Workstations
-Versión del SO      = 10.0.19045
-Arquitectura        = 64 bits
-Disco duro (Tipo)   = ST250DM000-1BD141: HDD
-Capacidad           = Total: 232.79 GB / Disponible: 138.84 GB
-Nombre del Kiron    = SOLLBD-TEST
-Tipo de Racing      = Ruleta de Caballos
-TeamViewer ID       = 213 272 642
-Carpeta equipo      = STERLING-PC
+Nombre del equipo:  = STERLING-PC
+Marca / Modelo:     = Dell Inc. OptiPlex 3010
+Número de serie:    = 8G6G8Y1
+Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB):   = 7.97
+Sistema Operativo:  = Microsoft Windows 10 Pro for Workstations
+Versión del SO:     = 10.0.19045
+Arquitectura:       = 64 bits
+Disco duro (Tipo):  = ST250DM000-1BD141: HDD
+Capacidad:          = Total: 232.79 GB / Disponible: 138.85 GB
+Nombre del Kiron:   = SOLLBD-TEST
+Tipo de Racing:     = Ruleta de Caballos
+TeamViewer ID:      = 213 272 642
+Carpeta equipo:     = STERLING-PC
