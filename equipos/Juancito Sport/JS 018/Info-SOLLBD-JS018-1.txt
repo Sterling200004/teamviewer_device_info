@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS018-1
+Marca / Modelo      = Dell Inc. OptiPlex 7010
+Número de serie     = 2GJ2HX1
+Procesador          = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB)    = 3.96
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KINGSTON SA400S37120G: SSD
+Capacidad           = Total: 111.15 GB / Disponible: 44.32 GB
+Nombre del Kiron    = SOLLBD-JS018
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 115 550 502
+Carpeta equipo      = JS 018
+Agencia             = Juancito Sport
