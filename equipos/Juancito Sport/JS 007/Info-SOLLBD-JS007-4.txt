@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS007-4
+Marca / Modelo      = HP HP t630 Thin Client
+Número de serie     = 8CN84409QC
+Procesador          = AMD Embedded G-Series GX-420GI Radeon R7E
+Memoria RAM (GB)    = 3.46
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SPCC M.2 SSD: SSD
+Capacidad           = Total: 118.6 GB / Disponible: 70.82 GB
+Nombre del Kiron    = SOLLBD-JS07
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 993 299 419
+Carpeta equipo      = JS 007
+Agencia             = Juancito Sport
