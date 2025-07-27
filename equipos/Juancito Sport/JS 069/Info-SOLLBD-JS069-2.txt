@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS069-2
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = 1RGS282
+Procesador          = Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SATA SSD: SSD
+Capacidad           = Total: 476.11 GB / Disponible: 424.79 GB
+Nombre del Kiron    = SOLLPREPOD-17
+Tipo de Racing      = Carrera de Galgos
+TeamViewer ID       = 356 100 648
+Carpeta equipo      = JS 069
+Agencia             = Juancito Sport
