@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JUNIOR01
+Marca / Modelo      = Fanless Mini PC PCG02 GLE
+Número de serie     = 2EKC2F316P440065
+Procesador          = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB)    = 3.83
+Sistema Operativo   = Microsoft Windows 11 Pro
+Versión del SO      = 10.0.22631
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = VID:D6 A3A562: SSD
+Capacidad           = Total: 104.94 GB / Disponible: 56.63 GB
+Nombre del Kiron    = SOLLBD-VIRS008RC
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 570 389 022
+Carpeta equipo      = JUNIOR 01
+Agencia             = Junior Sport
