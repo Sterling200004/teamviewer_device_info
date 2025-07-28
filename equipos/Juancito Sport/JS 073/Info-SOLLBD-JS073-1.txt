@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS073-1
+Marca / Modelo      = Dell Inc. OptiPlex 3020
+Número de serie     = 6ZD9S22
+Procesador          = Intel(R) Pentium(R) CPU G3240 @ 3.10GHz
+Memoria RAM (GB)    = 3.95
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = Dahua C800 2.5 inch SATA 120GB SSD: SSD
+Capacidad           = Total: 111.13 GB / Disponible: 60.73 GB
+Nombre del Kiron    = SOLLBD-JS073RC
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 180 038 334
+Carpeta equipo      = JS 073
+Agencia             = Juancito Sport
