@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JOS010-1
+Marca / Modelo      = Dell Inc. OptiPlex 390
+Número de serie     = GPRFZV1
+Procesador          = Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+Memoria RAM (GB)    = 3.97
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = WDC WD5000AZLX-75K2TA0: HDD
+Capacidad           = Total: 465.02 GB / Disponible: 374 GB
+Nombre del Kiron    = SOLLBD-JOSELITO010
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 984 915 548
+Carpeta equipo      = JOS 010
+Agencia             = Sport Mixx
