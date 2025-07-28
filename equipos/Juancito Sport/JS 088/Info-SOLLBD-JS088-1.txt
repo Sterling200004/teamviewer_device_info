@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS088-1
+Marca / Modelo      = Dell Inc. OptiPlex 790
+Número de serie     = H04SKS1
+Procesador          = Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+Memoria RAM (GB)    = 3.96
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST3320620AS: Unspecified
+Capacidad           = Total: 297,49 GB / Disponible: 241,31 GB
+Nombre del Kiron    = SOLLBD-JS088
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 141 452 527
+Carpeta equipo      = JS 088
+Agencia             = Juancito Sport
