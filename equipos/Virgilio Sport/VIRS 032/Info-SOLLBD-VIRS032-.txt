@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-VIRS032-
+Marca / Modelo      = Dell Inc. OptiPlex 390
+Número de serie     = 6HYM4V1
+Procesador          = Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+Memoria RAM (GB)    = 3.97
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST250DM000-1BD141: HDD
+Capacidad           = Total: 232,33 GB / Disponible: 173,3 GB
+Nombre del Kiron    = SOLLBD-VIRS032
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 277 183 570
+Carpeta equipo      = VIRS 032
+Agencia             = Virgilio Sport
