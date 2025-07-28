@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS089-1
+Marca / Modelo      = HP HP EliteDesk 800 G3 DM 35W
+Número de serie     = 8CG9048X9G
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 15.88
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZ7TE128HMGR-000L1: SSD
+Capacidad           = Total: 118.58 GB / Disponible: 68.47 GB
+Nombre del Kiron    = SOLLBD-JS089
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 159 950 716
+Carpeta equipo      = JS 089
+Agencia             = Juancito Sport
