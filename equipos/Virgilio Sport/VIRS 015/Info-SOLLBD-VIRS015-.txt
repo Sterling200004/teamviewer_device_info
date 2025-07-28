@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-VIRS015-
+Marca / Modelo      = Fanless Mini PC PCG02 GLE
+Número de serie     = 2EKH4S216P530100
+Procesador          = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB)    = 7.83
+Sistema Operativo   = Microsoft Windows 11 Pro
+Versión del SO      = 10.0.22631
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = VID:15 CUTB42: SSD
+Capacidad           = Total: 56.96 GB / Disponible: 8.19 GB
+Nombre del Kiron    = SOLLBD-MELE000
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 529 089 998
+Carpeta equipo      = VIRS 015
+Agencia             = Virgilio Sport
