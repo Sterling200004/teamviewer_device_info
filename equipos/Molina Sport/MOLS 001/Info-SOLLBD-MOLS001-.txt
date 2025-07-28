@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-MOLS001-
+Marca / Modelo      = Fanless Mini PC PCG02 GLE
+Número de serie     = 25KH4F216P4Q0079
+Procesador          = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB)    = 7.83
+Sistema Operativo   = Microsoft Windows 11 Pro
+Versión del SO      = 10.0.22631
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = VID:D6 A3A561: SSD
+Capacidad           = Total: 56.62 GB / Disponible: 18.68 GB
+Nombre del Kiron    = SOLLBD-MELE193
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 859 318 698
+Carpeta equipo      = MOLS 001
+Agencia             = Molina Sport
