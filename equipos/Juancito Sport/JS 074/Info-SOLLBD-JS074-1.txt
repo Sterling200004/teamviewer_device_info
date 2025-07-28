@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS074-1
+Marca / Modelo      = Dell Inc. OptiPlex 7010
+Número de serie     = 8M6YV12
+Procesador          = Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz
+Memoria RAM (GB)    = 3.96
+Sistema Operativo   = Microsoft Windows 10 Home
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = WDC WD2500AAKX-753CA1: Unspecified
+Capacidad           = Total: 232.25 GB / Disponible: 151.36 GB
+Nombre del Kiron    = SOLLBD-JS074
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 935 067 073
+Carpeta equipo      = JS 074
+Agencia             = Juancito Sport
