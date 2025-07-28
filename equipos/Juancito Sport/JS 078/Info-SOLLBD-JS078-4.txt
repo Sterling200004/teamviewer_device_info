@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS078-4
+Marca / Modelo      = Dell Inc. OptiPlex 3020
+Número de serie     = 2CK0M52
+Procesador          = Intel(R) Pentium(R) CPU G3250 @ 3.20GHz
+Memoria RAM (GB)    = 3.95
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KINGSTON SA400S37120GB: SSD
+Capacidad           = Total: 111.13 GB / Disponible: 63.11 GB
+Nombre del Kiron    = SOLLBD-JS078
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 539 969 732
+Carpeta equipo      = JS 078
+Agencia             = Juancito Sport
