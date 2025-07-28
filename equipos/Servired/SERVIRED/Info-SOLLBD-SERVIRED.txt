@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-SERVIRED
+Marca / Modelo      = HP HP ProDesk 600 G2 DM
+Número de serie     = 2UA6022831
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.88
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = PNY CS900 250GB SSD: SSD
+Capacidad           = Total: 232.25 GB / Disponible: 173.28 GB
+Nombre del Kiron    = SERVIRED-04
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 464 095 477
+Carpeta equipo      = SERVIRED
+Agencia             = Servired
