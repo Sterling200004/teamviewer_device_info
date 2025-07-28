@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS033-1
+Marca / Modelo      = Hewlett-Packard HP ProDesk 600 G1 DM
+Número de serie     = MXL5132QRY
+Procesador          = Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz
+Memoria RAM (GB)    = 3.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = WDC WD5000LPLX-75ZNTT1: HDD
+Capacidad           = Total: 465.12 GB / Disponible: 402.15 GB
+Nombre del Kiron    = SOLLBD-JS033
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 979 218 609
+Carpeta equipo      = JS 033
+Agencia             = Juancito Sport
