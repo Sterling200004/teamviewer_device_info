@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS087-1
+Marca / Modelo      = Dell Inc. OptiPlex 7040
+Número de serie     = 4KRPGB2
+Procesador          = Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz
+Memoria RAM (GB)    = 7.89
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = Dahua C800 2.5 inch SATA 120GB SSD: SSD, 128GB SSD: SSD
+Capacidad           = Total: 111.13 GB / Disponible: 69.36 GB
+Nombre del Kiron    = SOLLBD-JS087
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 042 940 387
+Carpeta equipo      = JS 087
+Agencia             = Juancito Sport
