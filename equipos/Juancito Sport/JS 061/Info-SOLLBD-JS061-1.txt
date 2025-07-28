@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS061-1
+Marca / Modelo      = Dell Inc. OptiPlex 3010
+Número de serie     = 8FXF8Z1
+Procesador          = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB)    = 5.97
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KINGSTON SA400S37120G: SSD
+Capacidad           = Total: 111.19 GB / Disponible: 67 GB
+Nombre del Kiron    = SOLLBD-JS061
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 121 184 735
+Carpeta equipo      = JS 061
+Agencia             = Juancito Sport
