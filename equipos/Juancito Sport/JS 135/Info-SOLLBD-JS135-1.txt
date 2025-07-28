@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS135-1
+Marca / Modelo      = HP HP ProDesk 400 G2 MINI
+Número de serie     = MXL70334V9
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.9
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZVLB512HAJQ-000L7: SSD
+Capacidad           = Total: 476,29 GB / Disponible: 425,68 GB
+Nombre del Kiron    = SOLLBD-JS135
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 672 958 323
+Carpeta equipo      = JS 135
+Agencia             = Juancito Sport
