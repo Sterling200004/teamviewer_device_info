@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo:  = SOLLBD-MS011-2
+Marca / Modelo:     = Fanless Mini PC PCG02 GLE
+Número de serie:    = 2EKC2F316P440058
+Procesador:         = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB):   = 3.83
+Sistema Operativo:  = Microsoft Windows 11 Pro
+Versión del SO:     = 10.0.22631
+Arquitectura:       = 64 bits
+Disco duro (Tipo):  = VID:D6 A3A562: SSD
+Capacidad:          = Total: 104.94 GB / Disponible: 63.88 GB
+Proyección:         = Tabla Informativa
+TeamViewer ID:      = 555 357 440
+Carpeta equipo:     = MS 011
+Agencia:            = Miguel Sport
