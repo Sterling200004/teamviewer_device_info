@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS075-1
+Marca / Modelo      = Dell Inc. OptiPlex 7050
+Número de serie     = 17NW0S2
+Procesador          = Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz
+Memoria RAM (GB)    = 7.86
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = FORESEE 128GB SSD: SSD
+Capacidad           = Total: 118.35 GB / Disponible: 64.35 GB
+Nombre del Kiron    = SOLLBD-JS075
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 089 213 323
+Carpeta equipo      = JS 075
+Agencia             = Juancito Sport
