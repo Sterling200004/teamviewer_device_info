@@ -1,17 +1,17 @@
 ﻿=== INFORMACION DEL SISTEMA ===
 
-Nombre del equipo:  = SOLLBD-JS138-1
-Marca / Modelo:     = HP HP PRODESK 600 G2 DM
-Número de serie:    = 2UA6121KX2
-Procesador:         = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
-Memoria RAM (GB):   = 7.88
-Sistema Operativo:  = Microsoft Windows 11 Pro
-Versión del SO:     = 10.0.26100
-Arquitectura:       = 64 bits
-Disco duro (Tipo):  = 120GB SATA Flash Drive: SSD, PNY USB 3.2.1 FD: Unspecified
-Capacidad:          = Total: 111,04 GB / Disponible: 86,6 GB
-Nombre del Kiron:   = SOLLBD-MELE161
-Tipo de Racing:     = Ruleta de Caballos
-TeamViewer ID:      = 498 350 455
-Carpeta equipo:     = JS 138
-Agencia:            = Juancito Sport
+Nombre del equipo   = SOLLBD-JS138-1
+Marca / Modelo      = HP HP PRODESK 600 G2 DM
+Número de serie     = 2UA6121KX2
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.88
+Sistema Operativo   = Microsoft Windows 11 Pro
+Versión del SO      = 10.0.26100
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = 120GB SATA Flash Drive: SSD
+Capacidad           = Total: 111,04 GB / Disponible: 88,42 GB
+Nombre del Kiron    = SOLLBD-MELE161
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 498 350 455
+Carpeta equipo      = JS 138
+Agencia             = Juancito Sport
