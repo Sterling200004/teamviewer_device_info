@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS035-1
+Marca / Modelo      = HP HP EliteDesk 800 G2 DM 35W
+Número de serie     = 2UA7051FVQ
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.88
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZ7LN128HCHP-000H1: SSD
+Capacidad           = Total: 118.62 GB / Disponible: 45.65 GB
+Nombre del Kiron    = SOLLBD-JS035
+Tipo de Racing      = Carreras Simultáneas
+TeamViewer ID       = 1 744 338 535
+Carpeta equipo      = JS 035
+Agencia             = Juancito Sport
