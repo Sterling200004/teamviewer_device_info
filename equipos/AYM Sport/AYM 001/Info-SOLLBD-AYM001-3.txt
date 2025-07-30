@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-AYM001-3
+Marca / Modelo      = Dell Inc. OptiPlex 7010
+Número de serie     = 72L08Y1
+Procesador          = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB)    = 3.96
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = XCON-120GB: SSD
+Capacidad           = Total: 111.18 GB / Disponible: 66.83 GB
+Nombre del Kiron    = SOLLBD-AYM001
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 971 879 225
+Carpeta equipo      = AYM 001
+Agencia             = AYM Sport
