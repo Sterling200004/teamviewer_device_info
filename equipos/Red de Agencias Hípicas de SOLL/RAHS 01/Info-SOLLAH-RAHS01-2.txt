@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo:  = SOLLAH-RAHS01-2
+Marca / Modelo:     = Dell Inc. OptiPlex 3010
+Número de serie:    = 8G6F8Y1
+Procesador:         = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB):   = 3.97
+Sistema Operativo:  = Microsoft Windows 7 Professional 
+Versión del SO:     = 6.1.7601
+Arquitectura:       = 64 bits
+Capacidad disco:    = Total: 232.79 GB / Libre: 196.7 GB
+Nombre del Kiron:   = SOLLAH-RAHS01
+Tipo de Racing:     = Carrera de Galgos
+TeamViewer ID:      = 1 573 209 147
+Carpeta equipo:     = RAHS 01
+Agencia:            = Red de Agencias Hipicas de SOLL
