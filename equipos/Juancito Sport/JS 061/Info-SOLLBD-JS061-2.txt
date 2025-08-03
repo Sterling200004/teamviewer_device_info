@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS061-2
+Marca / Modelo      = Dell Inc. OptiPlex 7040
+Número de serie     = J2Q9HB2
+Procesador          = Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz
+Memoria RAM (GB)    = 7.89
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = 2Connet 256GB: SSD
+Capacidad           = Total: 237.72 GB / Disponible: 193.9 GB
+Nombre del Kiron    = SOLLBD-JS0000CG
+Tipo de Racing      = Carrera de Galgos
+TeamViewer ID       = 850 896 409
+Carpeta equipo      = JS 061
+Agencia             = Juancito Sport
