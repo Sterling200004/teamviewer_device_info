@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS120-1
+Marca / Modelo      = Hewlett-Packard HP EliteDesk 800 G1 DM
+Número de serie     = 2UA5062805
+Procesador          = Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Memoria RAM (GB)    = 3.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZ7LF120HCHP-000L1: SSD
+Capacidad           = Total: 111.14 GB / Disponible: 69.47 GB
+Nombre del Kiron    = SOLLBD-JS120
+Tipo de Racing      = Carreras Simultáneas
+TeamViewer ID       = 1 745 400 010
+Carpeta equipo      = JS 120
+Agencia             = Juancito Sport
