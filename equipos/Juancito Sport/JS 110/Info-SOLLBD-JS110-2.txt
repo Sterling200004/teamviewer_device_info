@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS110-2
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = 561XFB2
+Procesador          = Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SSD 512GB: SSD
+Capacidad           = Total: 476.34 GB / Disponible: 426.6 GB
+Nombre del Kiron    = SOLLBD-JS110RG
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 911 104 358
+Carpeta equipo      = JS 110
+Agencia             = Juancito Sport
