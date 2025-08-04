@@ -10,8 +10,8 @@ Versión del SO      = 10.0.22631
 Arquitectura        = 64 bits
 Disco duro (Tipo)   = VID:D6 A3A562: SSD
 Capacidad           = Total: 114.24 GB / Disponible: 64.94 GB
-Nombre del Kiron    = No encontrado
-Tipo de Racing      = No encontrado
+Proyección:         = Tabla Informativa
 TeamViewer ID       = 690 988 370
 Carpeta equipo      = JS 029
 Agencia             = Juancito Sport
+
