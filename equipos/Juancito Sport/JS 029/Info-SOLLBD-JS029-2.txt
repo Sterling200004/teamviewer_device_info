@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS029-2
+Marca / Modelo      = Fanless Mini PC PCG02 GLE
+Número de serie     = 2EKR2F316H480041
+Procesador          = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB)    = 3.83
+Sistema Operativo   = Microsoft Windows 11 Home
+Versión del SO      = 10.0.22631
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = VID:D6 A3A562: SSD
+Capacidad           = Total: 114.24 GB / Disponible: 64.94 GB
+Nombre del Kiron    = No encontrado
+Tipo de Racing      = No encontrado
+TeamViewer ID       = 690 988 370
+Carpeta equipo      = JS 029
+Agencia             = Juancito Sport
