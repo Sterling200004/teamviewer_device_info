@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS054-2
+Marca / Modelo      = Dell Inc. OptiPlex 990
+Número de serie     = BFSZ8V1
+Procesador          = Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+Memoria RAM (GB)    = 3.96
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = WT100-120G: SSD
+Capacidad           = Total: 111.23 GB / Disponible: 50.67 GB
+Nombre del Kiron    = SOLLBD-JS054
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 325 530 674
+Carpeta equipo      = JS 054
+Agencia             = Juancito Sport
