@@ -1,0 +1,16 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo:  = SOLLBD-JS026-1
+Marca / Modelo:     = Dell Inc. OptiPlex 790
+Número de serie:    = JC861R1
+Procesador:         = Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+Memoria RAM (GB):   = 1.96
+Sistema Operativo:  = Microsoft Windows 7 Professional 
+Versión del SO:     = 6.1.7601
+Arquitectura:       = 64 bits
+Capacidad disco:    = Total: 232.79 GB / Libre: 132.09 GB
+Nombre del Kiron:   = SOLLBD-JS026
+Tipo de Racing:     = Ruleta de Caballos
+TeamViewer ID:      = 213 706 268
+Carpeta equipo:     = JS 026
+Agencia:            = Juancito Sport
