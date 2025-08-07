@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS115-1
+Marca / Modelo      = Dell Inc. OptiPlex 9020
+Número de serie     = GP41X52
+Procesador          = Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+Memoria RAM (GB)    = 3.94
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST250DM000-1BD141: HDD
+Capacidad           = Total: 232.31 GB / Disponible: 173.48 GB
+Nombre del Kiron    = SOLLBD115D
+Tipo de Racing      = Carreras Simultáneas
+TeamViewer ID       = 174 038 164
+Carpeta equipo      = JS 115
+Agencia             = Juancito Sport
