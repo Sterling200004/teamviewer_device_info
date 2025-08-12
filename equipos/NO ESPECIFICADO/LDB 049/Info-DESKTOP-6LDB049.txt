@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = DESKTOP-6LDB049
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = BNNTHB2
+Procesador          = Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 11 Pro
+Versión del SO      = 10.0.26100
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SSD 512GB: SSD
+Capacidad           = Total: 476.18 GB / Disponible: 439.46 GB
+Nombre del Kiron    = SOLLBD-15JS
+Tipo de Racing      = Carreras Simultáneas
+TeamViewer ID       = 563 344 043
+Carpeta equipo      = LDB 049
+Agencia             = NO ESPECIFICADO
