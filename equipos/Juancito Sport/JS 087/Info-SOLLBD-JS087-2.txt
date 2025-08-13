@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS087-2
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = 4BCWFB2
+Procesador          = Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = KingFast: SSD
+Capacidad           = Total: 476 GB / Disponible: 430.32 GB
+Nombre del Kiron    = SOLLBD-JS027
+Tipo de Racing      = Carrera de Galgos
+TeamViewer ID       = 151 564 957
+Carpeta equipo      = JS 087
+Agencia             = Juancito Sport
