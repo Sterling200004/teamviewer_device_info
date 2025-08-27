@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS071-2
+Marca / Modelo      = Dell Inc. OptiPlex 9020M
+Número de serie     = 4C7Y482
+Procesador          = Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+Memoria RAM (GB)    = 15.91
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZ7WD480HAGM-000D3: SSD
+Capacidad           = Total: 446.56 GB / Disponible: 384.45 GB
+Nombre del Kiron    = SOLLBD-2020
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 567 293 219
+Carpeta equipo      = JS 071
+Agencia             = Juancito Sport
