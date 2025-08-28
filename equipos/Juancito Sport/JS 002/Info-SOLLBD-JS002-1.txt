@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-JS002-1
+Marca / Modelo      = Dell Inc. OptiPlex 3010
+Número de serie     = 9DTB7Y1
+Procesador          = Intel(R) Core(TM) i5-3330S CPU @ 2.70GHz
+Memoria RAM (GB)    = 3.97
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST380819AS: Unspecified
+Capacidad           = Total: 73.87 GB / Disponible: 36.73 GB
+Nombre del Kiron    = SOLLBD-JS002
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 295 235 565
+Carpeta equipo      = JS 002
+Agencia             = Juancito Sport
