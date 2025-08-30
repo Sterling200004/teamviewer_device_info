@@ -1,6 +1,6 @@
 ﻿=== INFORMACION DEL SISTEMA ===
 
-Nombre del equipo   = SOLLBD-JS098
+Nombre del equipo   = SOLLBD-JS098-1
 Marca / Modelo      = Dell Inc. OptiPlex 7010
 Número de serie     = JL2P8Z1
 Procesador          = Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
@@ -15,3 +15,4 @@ Tipo de Racing      = Ruleta de Caballos
 TeamViewer ID       = 696 152 266
 Carpeta equipo      = JS 098
 Agencia             = Juancito Sport
+
