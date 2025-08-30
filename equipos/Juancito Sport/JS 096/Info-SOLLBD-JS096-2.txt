@@ -1,17 +1,16 @@
 ﻿=== INFORMACION DEL SISTEMA ===
 
-Nombre del equipo   = SOLLBD-JS096-2
-Marca / Modelo      = Fanless Mini PC PCG02 GLE
-Número de serie     = 25KH4F216P4Q0022
-Procesador          = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
-Memoria RAM (GB)    = 7.83
-Sistema Operativo   = Microsoft Windows 11 Pro
-Versión del SO      = 10.0.22631
-Arquitectura        = 64 bits
-Disco duro (Tipo)   = VID:D6 A3A561: SSD
-Capacidad           = Total: 56.62 GB / Disponible: 18.77 GB
-Nombre del Kiron    = SOLLBD-JS096
-Tipo de Racing      = Carrera de Galgos
-TeamViewer ID       = 1 036 639 915
-Carpeta equipo      = JS 096
-Agencia             = Juancito Sport
+Nombre del equipo:  = SOLLBD-JS096-2
+Marca / Modelo:     = Fanless Mini PC PCG02 GLE
+Número de serie:    = 2EKR2F316H480078
+Procesador:         = Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+Memoria RAM (GB):   = 3.83
+Sistema Operativo:  = Microsoft Windows 11 Home
+Versión del SO:     = 10.0.22631
+Arquitectura:       = 64 bits
+Disco duro (Tipo):  = VID:D6 A3A562: SSD
+Capacidad:          = Total: 114.24 GB / Disponible: 56.23 GB
+Proyección:         = Tabla Informativa
+TeamViewer ID:      = 800 701 350
+Carpeta equipo:     = JS 096
+Agencia:            = Juancito Sport
