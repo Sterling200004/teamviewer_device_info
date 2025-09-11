@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = DESKTOP-MTB91K5
+Marca / Modelo      = HP HP EliteDesk 800 G2 DM 35W
+Número de serie     = 2UA6392Z4M
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.66
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = PNY CS900 250GB SSD: SSD
+Capacidad           = Total: 232,22 GB / Disponible: 196,63 GB
+Nombre del Kiron    = SOLLBD-JS065
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 720 708 637
+Carpeta equipo      = MTB 91
+Agencia             = NO ESPECIFICADO
