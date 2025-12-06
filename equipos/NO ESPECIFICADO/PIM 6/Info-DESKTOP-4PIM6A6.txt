@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = DESKTOP-4PIM6A6
+Marca / Modelo      = Dell Inc. OptiPlex 3010
+NÃºmero de serie     = 8GMG8Y1
+Procesador          = Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Memoria RAM (GB)    = 3.97
+Sistema Operativo   = Microsoft Windows 10 Pro
+VersiÃ³n del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST250DM000-1BD141: HDD
+Capacidad           = Total: 232,29 GB / Disponible: 188,16 GB
+Nombre del Kiron    = SOLLBD-RS019CG
+Tipo de Racing      = Carreras SimultÃ¡neas
+TeamViewer ID       = 302 401 578
+Carpeta equipo      = PIM 6
+Agencia             = NO ESPECIFICADO
