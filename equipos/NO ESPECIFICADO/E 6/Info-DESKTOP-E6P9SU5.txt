@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = DESKTOP-E6P9SU5
+Marca / Modelo      = LENOVO 10DC001JUS
+Número de serie     = MJ03AC7U
+Procesador          = Intel(R) Pentium(R) CPU  J2900  @ 2.41GHz
+Memoria RAM (GB)    = 3.92
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = ST500LM021-1KJ152: HDD
+Capacidad           = Total: 465.12 GB / Disponible: 433.41 GB
+Nombre del Kiron    = SOLLBD-MELE152
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 254 969 382
+Carpeta equipo      = E 6
+Agencia             = NO ESPECIFICADO
