@@ -1,0 +1,17 @@
+﻿=== INFORMACION DEL SISTEMA ===
+
+Nombre del equipo   = SOLLBD-25FEB-3
+Marca / Modelo      = HP HP MP9 G2 Retail System
+Número de serie     = MXL8322N3L
+Procesador          = Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+Memoria RAM (GB)    = 7.88
+Sistema Operativo   = Microsoft Windows 10 Pro
+Versión del SO      = 10.0.19045
+Arquitectura        = 64 bits
+Disco duro (Tipo)   = SAMSUNG MZ7LN128HAHQ-000H1: SSD
+Capacidad           = Total: 118,58 GB / Disponible: 76,13 GB
+Nombre del Kiron    = SOLLBD-MELE135
+Tipo de Racing      = Ruleta de Caballos
+TeamViewer ID       = 1 419 375 584
+Carpeta equipo      = 25FEB
+Agencia             = NO ESPECIFICADO
